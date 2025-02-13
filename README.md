@@ -1,3 +1,7 @@
+# Moved
+
+dispatch2 maintenance was moved to [objc2](https://github.com/madsmtm/objc2).
+
 # dispatch2
 
 Allows interaction with the [Apple Dispatch](https://developer.apple.com/documentation/dispatch) library in a safe and unsafe way.
